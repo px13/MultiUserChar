@@ -16,3 +16,5 @@ Spustenie:
 
 ```java Client [Meno_uzivatela]```
 
+
+Program beží na localhoste na porte 1234.
